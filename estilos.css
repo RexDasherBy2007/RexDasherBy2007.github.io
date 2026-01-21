@@ -7,20 +7,14 @@ body, html {
     }
 
 .textoo{
-    background-image: url('Images/fondo2.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+ 
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
 
 .carta{
-    background-image: url('Images/fondo2.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+   
     width: 100vw;
     height: 100vh;
     text-align: center;
@@ -55,5 +49,6 @@ button{
     position: absolute;
 
 }
+
 
 
