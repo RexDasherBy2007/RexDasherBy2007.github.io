@@ -6,7 +6,7 @@ body, html {
     margin: 0; padding: 0; height: 100%; 
     }
 
-.text{
+.textoo{
     background-image: url('Images/fondo2.jpg');
     background-size: cover;
     background-position: center;
@@ -54,4 +54,5 @@ button{
 
 #rechazar{
     position: absolute;
+
 }
